@@ -5,7 +5,7 @@ It basically works by simulating the keypress.
 
 it opens the 5th, 4th and 3rd app in 1st, 2nd and 3rd desktop
 
-As my 5th app is code,4th is figma and 3rd is brave browser I have made the method name to represent my preference
+As my 5th app is vs code,4th is figma and 3rd is brave browser I  made the method name to represent my preferences
 ```java
 
 void OpenBrowser() {
@@ -25,7 +25,7 @@ void OpenBrowser() {
         }
 ```
 
-As the name have  already revealed it chnage the desktop to left   
+As the name have already revealed it chanage the desktop to left   
 
 ```java
 
@@ -79,4 +79,4 @@ And
 ```java 
 Thread.sleep(2500);
 ```
-is used to wait in every task.
+is used to wait between each task.
