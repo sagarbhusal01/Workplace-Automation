@@ -6,6 +6,10 @@ It basically works by simulating the keypress.
 it opens the 5th, 4th and 3rd app in 1st, 2nd and 3rd desktop
 
 As my 5th app is vs code,4th is figma and 3rd is brave browser I  made the method name to represent my preferences
+
+- --
+- [Download Executable Workplace-Automation file](https://github.com/sagarbhusal01/Workplace-Automation/releases/download/stable/Workplace-Automation.zip)
+- --
 ```java
 
 void OpenBrowser() {
